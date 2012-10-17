@@ -1,0 +1,1 @@
+<h1 class="pageHead">[{$options.title}]</h1>
